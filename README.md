@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+	
+![git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 <!--
 **guniFF11/guniFF11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
