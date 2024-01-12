@@ -6,6 +6,7 @@
 BOJ History
 ![image](https://github.com/guniFF11/guniFF11/assets/156268454/31ef98a6-f38e-4abe-abfd-01023f797ebc)
 
+[![GuniFF11's GitHub stats](https://github-readme-stats.vercel.app/api?username=guniFF11)](https://github.com/guniFF11/github-readme-stats)
 
 <!--
 **guniFF11/guniFF11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
