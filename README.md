@@ -1,8 +1,11 @@
 ### Hi there 👋
 	
 ![git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+
+
 BOJ History
-![image](https://github.com/guniFF11/guniFF11/assets/156268454/f9f83ea8-6bcd-4581-8e02-4ca1b8bbe991)
+![image](https://github.com/guniFF11/guniFF11/assets/156268454/31ef98a6-f38e-4abe-abfd-01023f797ebc)
+
 
 <!--
 **guniFF11/guniFF11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
